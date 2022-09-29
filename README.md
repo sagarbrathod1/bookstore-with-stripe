@@ -22,7 +22,7 @@ Deployed a bookstore with a React front-end and DynamoDB backend using AWS Ampli
 | --------- | ------------------------------------------------------------ |
 | Language  | [JavaScript](https://www.javascript.com/)                    |
 | Framework | [React](https://reactjs.org/)                                |
-| Hosting   | [AWS Amplify](https://aws.amazon.com/amplify/), [S3](https://aws.amazon.com/s3/)|
+| Hosting   | [AWS Amplify](https://aws.amazon.com/amplify/) / [AWS S3](https://aws.amazon.com/s3/)|
 
 ## Architecture
 
