@@ -14,7 +14,7 @@ Deployed a bookstore with a React front-end and DynamoDB backend using AWS Ampli
 | CRUD      | [AWS AppSync GraphQL API](https://aws.amazon.com/appsync/)   |
 | Payments  | [Stripe](https://stripe.com/)                                |
 | Database Management  | [DynamoDB](https://aws.amazon.com/dynamodb/)      |
-| User Authentication | [AWS Cognito](https://aws.amazon.com/cognito/)               |
+| User Authentication | [Amazon Cognito](https://aws.amazon.com/cognito/)               |
 
 #### Front-end Stack
 
